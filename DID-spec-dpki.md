@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This specification describes a new DID method for hosting DIDs on the PAID Protocol, also referred to as PAID DID. This specification conforms to the requirements specified in the [DIDs specification](https://www.w3.org/TR/did-core/) currently published by the W3C Credentials Community Group.
+This specification describes a new DID method to host DIDs in the PAID protocol, which coexists in the Ethereum, IPFS and PolkaDOT public blockchains, also called DID DPKI. This specification meets the requirements specified in the [DIDs specification] (https://www.w3.org/TR/did-core/) currently published by the W3C Credentials Community Group.
 
 ## Conformance and Terminology
 
