@@ -1,4 +1,4 @@
-# PAID DID Specification Draft v0.1
+# PAID DID Specification Draft v0.1.3
 
 ## Abstract
 
